@@ -554,7 +554,7 @@ h2{
 }
 @keyframes html-fill{
   100%{
-      width: 75%;
+      width: 50%;
   }
 }
 #css-bar{
@@ -562,7 +562,7 @@ h2{
 }
 @keyframes css-fill{
   100%{
-      width: 70%;
+      width: 50%;
   }
 }
 #js-bar{
@@ -573,10 +573,10 @@ h2{
       width: 78%;
   }
 }
-#angular-bar{
-  animation: angular-fill 2s forwards;
+#laravel-bar{
+  animation: laravel-fill 2s forwards;
 }
-@keyframes angular-fill{
+@keyframes laravel-fill{
   100%{
       width: 30%;
   }
